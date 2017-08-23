@@ -4,7 +4,9 @@ pathrs.sh is the script that test if the path from one area to an other area tak
 
 Usage :
 -------
+```
 cat site | xargs -n 1 -P 16 -I % ./pathrs.sh %
+```
 
 Exemple :
 ---------
