@@ -1,4 +1,5 @@
 #!/bin/sh
+# fichier réalisé par JLT
 LOGFILE="routes.log"
 rm $LOGFILE && true
 for site in bastide mpls pdb pe_obs tdf
