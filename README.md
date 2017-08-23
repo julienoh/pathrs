@@ -1,6 +1,6 @@
 # pathrs
 
-`pathrs.sh` is the script that test if the path from one area to an other area take the same path in the small MAN. We test all the path frome the "site" file.
+`pathrs.sh` is the script that test if the path from one area to an other area take the same path in the small MAN. We test all the path frome the `site` file.
 
 Usage :
 -------
