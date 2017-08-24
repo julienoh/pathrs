@@ -10,7 +10,7 @@ cat site | xargs -n 1 -P 16 -I % ./pathrs.sh %
 
 Exemple :
 ---------
-In this exemple we see the all the path to `pdb` site take the same path !
+In this exemple we see all path to `pdb` site take the same path !
 ```
 joh@lestest% cat pdb | xargs -n 1 -P 16 -I % ./pathrs.sh %
 --> 10.2.20.20 --> 10.2.68.41 --> 10.2.90.20  [10.2.90.20_PdB_VOIX]
